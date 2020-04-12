@@ -21,3 +21,6 @@ For the Front-end development - React Basics
   
   
   This the basic TO-DO-LIST in react.
+  
+  This repo also contain some basic concept of javascript like - 
+   Async , Fetch and promise.
