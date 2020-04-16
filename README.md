@@ -1,26 +1,21 @@
 # Code_Down
 To learn frontend and backend development 
 
-For the Front-end development - React Basics
-  React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex
-  UIsfrom small and isolated pieces of code called “components”. 
-  
-  Each COMPONENTS had a lifecycle of their own . Its lifecycle includes four stages - 
-     >Initialization: This is the stage where the component is constructed with the given Props and default state. This is done 
-            in the constructor of a Component Class.
-     >Mounting: Mounting is the stage of rendering the JSX returned by the render method itself.
-     >Updating: Updating is the stage when the state of a component is updated and the application is repainted.
-     >Unmounting: As the name suggests Unmounting is the final step of the component lifecycle where the component is removed
-            from the page.
+I start with learning frontend React technology.
+# DAY - 1
+Started with tutorial on You-tube and edx audit course of react
 
-  The main advantage of using react is that it never changes the Structure of DOM , it first renders the Changes in Vitual DOM and
-  then changes all the element affected by rendering in real DOM.
-  
-  
-  ref link-  https://codeburst.io/react-js-for-beginners-the-basics-87ef6e54dae7
-  
-  
-  This the basic TO-DO-LIST in react.
-  
-  This repo also contain some basic concept of javascript like - 
-   Async , Fetch and promise.
+# DAY - 2
+Learned the basic concept and started with TO-DO-LIST
+
+# DAY - 3 & 4
+Started with another project on react the shopping cart
+
+# DAY - 5
+try to buid somthing with COVID-19 API which i keep for the days i am feeling to work ,so it is still on process
+
+# AFTER FEW DAYS
+ I start again with NODEjs tutorial with you-tube and edx course
+ 
+ # Currently 
+ working with Nodejs and learned the http module and will be starting Nodejs with couchDB instead of MongooDB.
